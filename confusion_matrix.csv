@@ -1,0 +1,17 @@
+Models,Actual,Predicted,Count
+Logistic Regression,Healthy,Healthy,106
+Logistic Regression,Healthy,Unhealthy,31
+Logistic Regression,Unhealthy,Healthy,41
+Logistic Regression,Unhealthy,Unhealthy,229
+Decision Tree,Healthy,Healthy,86
+Decision Tree,Healthy,Unhealthy,51
+Decision Tree,Unhealthy,Healthy,50
+Decision Tree,Unhealthy,Unhealthy,220
+Random Forest,Healthy,Healthy,99
+Random Forest,Healthy,Unhealthy,38
+Random Forest,Unhealthy,Healthy,29
+Random Forest,Unhealthy,Unhealthy,241
+XGBoost,Healthy,Healthy,110
+XGBoost,Healthy,Unhealthy,27
+XGBoost,Unhealthy,Healthy,32
+XGBoost,Unhealthy,Unhealthy,238
